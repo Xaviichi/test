@@ -1,5 +1,11 @@
-# New project
+# NeuroStartUp
 
-Testing Github
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-And Git
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
